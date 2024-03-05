@@ -1,3 +1,3 @@
-# challenge-5 REMOTE
+# challenge-5 
 Cours git
 EXERCICE
